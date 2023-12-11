@@ -1,2 +1,2 @@
 # Text-Summarization-and-Keyword-Extraction
-This project focuses on the different models of text summarization and keyword extraction strategies both before and after document summarizing.
+This project explores various models and strategies for text summarization and keyword extraction, both pre and post document summarization. Text summarization is a crucial aspect of natural language processing, condensing large bodies of text into concise yet informative representations. Keyword extraction, on the other hand, enhances document understanding by identifying and highlighting key terms.
